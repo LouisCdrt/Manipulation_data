@@ -10,3 +10,8 @@ Pour tester ces fonctions il suffit d'exécuter dans le terminal (en se placant 
 Si vous ne souhaitez tester que l'une des deux fonctions, il faut modifier le fichier "Test.py".
 
 
+# Droits d'auteur et licence
+
+Le code source du répertoire est publié sous la licence MIT. Les données, disponibles dans le répertoire data sont publiées sous la Licence Ouverte 2.0.
+
+© 2020 Direction interministérielle du numérique, Louis Coudert.
