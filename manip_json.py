@@ -6,7 +6,7 @@ class Manipulation_data:
 		liste =[]
 		with open('all.json') as json_data:
 			data_dict = json.load(json_data)
-			print("Les 10 depots les plus etoiles qui ont ete mis à jour il y a moins d'un mois\n")
+			print("Les 10 depots les plus etoiles qui ont ete mis a jour il y a moins d un mois\n")
 			for dict in data_dict:
 				date_derniere_maj = datetime.strptime(dict.get("derniere_mise_a_jour"), "%Y-%m-%dT%H:%M:%SZ")
 				duree = datetime.now() - date_derniere_maj
