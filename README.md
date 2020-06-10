@@ -12,7 +12,7 @@ Si vous ne souhaitez tester que l'une des deux fonctions, il faut modifier le fi
 
 # Droits d'auteur et licence
 
-Le code source du répertoire est publié sous la licence MIT. Les données, disponibles dans le répertoire data sont publiées sous la Licence Ouverte 2.0.
+Le code source du répertoire est publié sous la licence MIT. Les données, disponibles dans le fichier "all.json" sont publiées sous la Licence Ouverte 2.0.
 
 © 2020 Direction interministérielle du numérique, Louis Coudert.
 
